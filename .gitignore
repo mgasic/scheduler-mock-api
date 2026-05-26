@@ -1,0 +1,13 @@
+# .NET
+bin/
+obj/
+*.user
+.vs/
+*.suo
+.idea/
+
+# Runtime data (seed data in Data/seed/ stays tracked)
+SchedulerMockApi/Data/runtime/
+
+# Build artifacts
+publish/

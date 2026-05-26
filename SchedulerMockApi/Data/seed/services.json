@@ -1,0 +1,5 @@
+[
+  {"service_id": "service123", "name": "General Consultation", "description": "General medical consultation"},
+  {"service_id": "service456", "name": "Follow-up Visit", "description": "Follow-up appointment"},
+  {"service_id": "service789", "name": "Preventive Care", "description": "Annual wellness check"}
+]

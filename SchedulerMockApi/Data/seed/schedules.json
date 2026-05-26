@@ -1,0 +1,4 @@
+[
+  {"schedule_id": "ascension:athena:8397:1005:provider123:facility123", "provider_id": "provider123", "facility_id": "facility123", "ehr_name": "athena", "tablespace_id": "8397", "provider_group_id": "1005", "client_id": "ascension"},
+  {"schedule_id": "ascension:athena:8397:1005:provider456:facility123", "provider_id": "provider456", "facility_id": "facility123", "ehr_name": "athena", "tablespace_id": "8397", "provider_group_id": "1005", "client_id": "ascension"}
+]

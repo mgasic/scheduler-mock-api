@@ -1,0 +1,5 @@
+[
+  {"facility_id": "facility123", "name": "Downtown Medical Center", "address": "100 Health Blvd", "city": "Springfield", "state": "IL", "zip_code": "62701", "phone": "2175550100"},
+  {"facility_id": "facility456", "name": "North Side Clinic", "address": "200 North Ave", "city": "Springfield", "state": "IL", "zip_code": "62702", "phone": "2175550200"},
+  {"facility_id": "facility789", "name": "Pediatric Health Center", "address": "300 Child Way", "city": "Springfield", "state": "IL", "zip_code": "62703", "phone": "2175550300"}
+]

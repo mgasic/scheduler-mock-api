@@ -1,0 +1,6 @@
+[
+  {"reason_id": "reason001", "name": "Back Pain", "description": "Lower or upper back pain", "is_treated_by_provider": true, "provider_ids": ["provider123", "provider456"], "triage": [{"node_id": "n1", "question": "How severe is your pain? (1-10)", "answers": [{"answer_id": "a1", "text": "Mild (1-4)", "next_node_id": null, "action": "schedule"}, {"answer_id": "a2", "text": "Severe (7-10)", "next_node_id": null, "action": "urgent"}]}]},
+  {"reason_id": "reason002", "name": "Annual Physical", "description": "Yearly wellness examination", "is_treated_by_provider": true, "provider_ids": ["provider123"], "triage": null},
+  {"reason_id": "reason003", "name": "Cold/Flu Symptoms", "description": "Cough, fever, congestion", "is_treated_by_provider": true, "provider_ids": ["provider123", "provider456"], "triage": null},
+  {"reason_id": "reason004", "name": "Pediatric Checkup", "description": "Child wellness visit", "is_treated_by_provider": true, "provider_ids": ["provider789"], "triage": null}
+]

@@ -1,0 +1,6 @@
+[
+  {"specialty_id": "sp001", "name": "Family Medicine"},
+  {"specialty_id": "sp002", "name": "Internal Medicine"},
+  {"specialty_id": "sp003", "name": "Pediatrics"},
+  {"specialty_id": "sp004", "name": "Orthopedics"}
+]

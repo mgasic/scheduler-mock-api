@@ -1,0 +1,7 @@
+[
+  {"reason_id": "cr_01", "description": "Patient requested cancellation"},
+  {"reason_id": "cr_02", "description": "Provider unavailable"},
+  {"reason_id": "cr_03", "description": "Patient no-show"},
+  {"reason_id": "cr_04", "description": "Insurance issue"},
+  {"reason_id": "cr_05", "description": "Personal emergency"}
+]

@@ -1,0 +1,5 @@
+[
+  {"provider_id": "provider123", "first_name": "Emily", "last_name": "Chen", "specialty": "Family Medicine", "npi": "1234567890", "facility_ids": ["facility123", "facility456"]},
+  {"provider_id": "provider456", "first_name": "Michael", "last_name": "Brown", "specialty": "Internal Medicine", "npi": "0987654321", "facility_ids": ["facility123"]},
+  {"provider_id": "provider789", "first_name": "Sarah", "last_name": "Johnson", "specialty": "Pediatrics", "npi": "1122334455", "facility_ids": ["facility789"]}
+]

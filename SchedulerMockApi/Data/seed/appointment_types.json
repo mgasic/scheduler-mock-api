@@ -1,0 +1,6 @@
+[
+  {"appt_type_id": "appt123", "name": "New Patient Visit", "duration": 60, "description": "Initial consultation for new patients"},
+  {"appt_type_id": "appt456", "name": "Follow-up", "duration": 30, "description": "Follow-up appointment"},
+  {"appt_type_id": "appt789", "name": "Annual Physical", "duration": 45, "description": "Yearly physical exam"},
+  {"appt_type_id": "appt012", "name": "Sick Visit", "duration": 20, "description": "Acute illness visit"}
+]

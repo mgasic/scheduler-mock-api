@@ -1,0 +1,4 @@
+[
+  {"appointment_id": "appointment123", "patient_id": "123456", "provider_id": "provider123", "facility_id": "facility123", "appt_type_id": "appt456", "slot_date": "2026-06-10", "slot_time": "10:00:00", "duration": 30, "reason_id": "reason001", "reason": "Back pain", "service_id": "service123", "status": "scheduled", "waitlisted": "NO", "onRecall": "NO", "cancellation_reason_id": null, "appointment_comment": null, "add_patient_to_waitlist": false},
+  {"appointment_id": "appointment456", "patient_id": "789012", "provider_id": "provider456", "facility_id": "facility123", "appt_type_id": "appt789", "slot_date": "2026-06-12", "slot_time": "14:00:00", "duration": 45, "reason_id": "reason002", "reason": "Annual Physical", "service_id": "service789", "status": "scheduled", "waitlisted": "NO", "onRecall": "NO", "cancellation_reason_id": null, "appointment_comment": null, "add_patient_to_waitlist": false}
+]
