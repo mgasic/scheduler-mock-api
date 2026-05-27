@@ -1,0 +1,12 @@
+[
+  {
+    "slot_id": "slot_provider123_2026-06-01_090000",
+    "provider_id": "provider123",
+    "facility_id": "facility123",
+    "slot_date": "2026-06-01",
+    "slot_time": "09:00:00",
+    "duration": 30,
+    "appt_type_id": "appt456",
+    "is_locked": false
+  }
+]
